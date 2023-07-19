@@ -1,7 +1,6 @@
-# Imag Processing Course Project
+# Image Processing Course Project
 
-تطبيقا للمفاهيم التي تم دراستها في مقرر معالجة الصور ومقرر البرمجة المرئية  قمت بانشاء  هذا البرنامج بلغة 
- C# 
+Image editing program project, as an application of the concepts that were studied in the image processing course, I created a C# program for image editing. The program has a multi-tabs feature where you can open different images in multiple tabs and navigate between them easily
 
  ## Screenshots
  
